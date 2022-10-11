@@ -30,7 +30,7 @@ global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
 global.packname = 'Gojo-adam'
-global.author = 'kronos Bot'
+global.author = 'kronos Bott'
 global.sessionName = 'TVF6MW0wVkc='
 global.prefa = ['','!','.','❤️','🎪','🥰']
 global.sp = '⭔'
